@@ -3,6 +3,8 @@
 ## Description
 This is a programming exercise, using the full MERN stack (MongoDB, Express, React, Node) to demonstrate building the basic components and logic for a banking app, both front end and back end. This app's primary features include pages for: Create an Account, Deposit, Withdraw, and View Balance. This was originally our Week 21 Portfolio assignment in the MIT xPro MERN course, but I'm continuing to develop and refactor it for our Week 27 assignment. Specifically, I'm currently refactoring to create a set of two, new, reuseable components; one for forms, and one for form input elements. I'm also working on adding user authentication to the app. This has been an excellent tutorial in developing a complete, albeit basic, full MERN stack app. Additional future improvements to the functionality are listed below, under Roadmap.
 
+![Alt text](home-page-screenshot.jpg?raw=true "screenshot")
+
 ## Installation / Usage
 Clone or download all of the files within this repository. This app can run while hosted either on a local or remote web server. Run 'npm start' in your terminal. 
 
