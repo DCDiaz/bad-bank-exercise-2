@@ -6,10 +6,10 @@ This is a programming exercise, using the full MERN stack (MongoDB, Express, Rea
 ![Alt text](home-page-screenshot.jpg?raw=true "screenshot")
 
 ## Installation / Usage
-Clone or download all of the files within this repository. This app can run while hosted either on a local or remote web server. Run 'npm start' in your terminal. 
+To run this app on a local server, clone or download all of the files within this repository to your local machine. Then, run 'npm install', then 'npm start' in your terminal. 
 
 ## Roadmap
-- Add authentication to this app (possibly using Firebase Authentication).
+- Add authentication and authorization to this app (possibly using Firebase Authentication).
 
 ## Support
 I can be reached via email at david@d2weblogic.com, or connect with me on LinkedIn at https://www.linkedin.com/in/dave-diaz-b64aa88a/
